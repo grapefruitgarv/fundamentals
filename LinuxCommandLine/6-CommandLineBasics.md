@@ -101,8 +101,8 @@ Now let's append (that means add to the back of) file1.
 $ echo Goodbye! >> file1.txt
 ```
 
-As a note, we used two redirectors there. If we only use one it makes a
-new file, but two redirectors tells the bash shell to append to the back
+As a note, we used two redirectors there. If we only use one it overwrites
+the file, but two redirectors tells the bash shell to append to the back
 of an existing file.
 
 Use `cat` to read file1. What do you see?
