@@ -266,7 +266,7 @@ $ curl  -o image.png https://raw.githubusercontent.com/hoppersroppers/hoppersrop
 
 If you don't have curl on a system, the easiest way to download a file
 is `wget`. There are a lot fewer features, but that doesn't mean it
-won't work. Note the capital O vice lowercase o.
+won't work. Note the capital O versus lowercase o.
 
 ``` default
 $ wget  -O image.png https://raw.githubusercontent.com/hoppersroppers/hoppersroppers.github.io/master/_layouts/compass.png
